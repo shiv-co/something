@@ -1,0 +1,25 @@
+body{
+  /* background-color: #CCD5AE; */
+  /* background-color: #FDF7C3; */
+  background-color: #FFE3E1;
+  font-family: 'Fraunces', serif;
+
+
+}
+.container{
+  margin: 20px;
+}
+h4{
+
+  font-family: 'Sacramento', cursive;
+  text-align: center;
+  font-size: 5rem;
+}
+h5{
+  font-family: 'Sacramento', cursive;
+  text-align: center;
+  font-size: 3.5rem;
+}
+p{
+  text-align: justify;
+}
